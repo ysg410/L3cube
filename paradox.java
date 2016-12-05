@@ -1,3 +1,5 @@
+//Birthday paradox problem
+
 import java.io.*;
 import java.util.*;
 class days
